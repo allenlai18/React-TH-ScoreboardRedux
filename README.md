@@ -1,4 +1,4 @@
-# ReactRedux-TH
+# React-TH-ScoreboardRedux
 
 ## Team Treehouse Scoreboard application
 
